@@ -1,0 +1,5 @@
+
+Version 1.0.0
+- remove all LaTeX macros from the pattern file
+- split all patterns by newline
+- replaced all LaTeX escape codes with the corresponding characters
